@@ -13,6 +13,3 @@ Scipy - za neke proracune                       //pip install scipy
 Sqlalchemy - za ucitavanje podataka iz db-a     //pip install sqlalchemy
 
 pymysql - upis podataka u db                    //pip install pymysql
-
-
-
